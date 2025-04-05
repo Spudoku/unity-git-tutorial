@@ -14,4 +14,5 @@ Step 3: Clone the repository into the Unity Project directory
   - Simply move the contents of this directory into the main project directory
 
 Step 4: Verify the Connection
-- In Visual Studio Code
+- In Visual Studio Code check the Source Control tab. It should read the Git repository
+- You should now be able to use Git with Unity!
